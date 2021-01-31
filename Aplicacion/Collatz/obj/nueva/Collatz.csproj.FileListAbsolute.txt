@@ -1,0 +1,12 @@
+F:\Collatz\Collatz\bin\nueva\Collatz.exe.config
+F:\Collatz\Collatz\bin\nueva\Collatz.exe.manifest
+F:\Collatz\Collatz\bin\nueva\Collatz.application
+F:\Collatz\Collatz\bin\nueva\Collatz.exe
+F:\Collatz\Collatz\bin\nueva\Collatz.pdb
+F:\Collatz\Collatz\obj\nueva\Collatz.Form1.resources
+F:\Collatz\Collatz\obj\nueva\Collatz.Properties.Resources.resources
+F:\Collatz\Collatz\obj\nueva\Collatz.csproj.GenerateResource.cache
+F:\Collatz\Collatz\obj\nueva\Collatz.exe.manifest
+F:\Collatz\Collatz\obj\nueva\Collatz.application
+F:\Collatz\Collatz\obj\nueva\Collatz.exe
+F:\Collatz\Collatz\obj\nueva\Collatz.pdb

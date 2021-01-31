@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collatz", "Collatz\Collatz.csproj", "{62CD12D5-FFA0-45E4-89DA-7D3E71FCB47D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62CD12D5-FFA0-45E4-89DA-7D3E71FCB47D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{62CD12D5-FFA0-45E4-89DA-7D3E71FCB47D}.Debug|x64.Build.0 = Debug|Any CPU
+		{62CD12D5-FFA0-45E4-89DA-7D3E71FCB47D}.Release|x64.ActiveCfg = Release|Any CPU
+		{62CD12D5-FFA0-45E4-89DA-7D3E71FCB47D}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9BD14FE-0196-4D8A-9DC6-A5C69BF9AD75}
+	EndGlobalSection
+EndGlobal
